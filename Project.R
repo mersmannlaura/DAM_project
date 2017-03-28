@@ -5,7 +5,7 @@ tombstone <-
     header = TRUE,
     sep = ","
   )
-
+#heyyyy
 head(tombstone)
 summary(tombstone)
 names(tombstone) <- c("city", "covariate", "response")
